@@ -15,12 +15,18 @@ Developed a comprehensive Gym App that provides users with an extensive database
 ## Demonstration -->
 
 <p align="left">
-  <img src='./assets/images/appImg/IMG-20240106-WA0005.jpg' alt='Intro Screen' width="80%">
-  <img src='./assets/images/appImg/IMG-20240106-WA0006.jpg' alt='Intro Screen' width="80%">
-  <img src='./assets/images/appImg/IMG-20240106-WA0007.jpg' alt='Intro Screen' width="80%">
-  <img src='./assets/images/appImg/IMG-20240106-WA0008.jpg' alt='Intro Screen' width="80%">
-  <img src='./assets/images/appImg/IMG-20240106-WA0009.jpg' alt='Intro Screen' width="80%">
-  <img src='./assets/images/appImg/IMG-20240106-WA0011.jpg' alt='Intro Screen' width="80%">
+  <img src='./assets/images/appImg/IMG-20240106-WA0005.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
+  <img src='./assets/images/appImg/IMG-20240106-WA0006.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
+  <img src='./assets/images/appImg/IMG-20240106-WA0007.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
+  <img src='./assets/images/appImg/IMG-20240106-WA0008.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
+  <img src='./assets/images/appImg/IMG-20240106-WA0009.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
+  <img src='./assets/images/appImg/IMG-20240106-WA0011.jpg' alt='Intro Screen' width="50%" height="50%">
+  <br />
 </p>
 
 ### Technologies Used
