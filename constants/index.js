@@ -1,11 +1,11 @@
 export const rapidApiKey = 'a80000e26cmsh8aee5703b0a8ee4p1cf176jsne1df404242b5';
 
 export const sliderImages = [
-    require('../assets/images/slide1.png'),
-    require('../assets/images/slide3.png'),
-    require('../assets/images/slide2.png'),
-    require('../assets/images/slide4.png'),
-    require('../assets/images/slide5.png'),
+    require('../assets/images/carousel3.jpg'),
+    require('../assets/images/carousel4.jpg'),
+    require('../assets/images/carousel5.jpg'),
+    require('../assets/images/carousel2.jpg'),
+    require('../assets/images/carousel1.jpg'),
 ]
 
 export const bodyParts = [

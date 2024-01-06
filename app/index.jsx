@@ -19,10 +19,10 @@ export default function index() {
       <StatusBar style="light" />
       <Image
         className="h-full w-full absolute"
-        source={require("../assets/images/welcome.png")}
+        source={require("../assets/images/welcome.jpg")}
       />
       <LinearGradient
-        colors={["transparent", "#18181b"]}
+        colors={["transparent", "#4B34A2"]}
         style={{ width: wp(100), height: hp(70) }}
         start={{ x: 0.5, y: 0 }}
         end={{ x: 0.5, y: 0.8 }}
@@ -33,7 +33,7 @@ export default function index() {
             style={{ fontSize: hp(5) }}
             className="text-white font-bold tracking-wide"
           >
-            Best <Text className="text-rose-500">Workouts</Text>
+            Best <Text className="text-secondary">Workouts</Text>
           </Text>
           <Text
             style={{ fontSize: hp(5) }}
@@ -50,7 +50,7 @@ export default function index() {
               height: hp(7),
               width: wp(80),
             }}
-            className="bg-rose-500 flex items-center justify-center mx-auto rounded-full border-[2px] border-neutral-200"
+            className="flex items-center justify-center mx-auto rounded-full border-[2px] border-neutral-200"
           >
             <Text
               style={{ fontSize: hp(3) }}

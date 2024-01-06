@@ -25,7 +25,7 @@ export default function home() {
           </Text>
           <Text
             style={{ fontSize: hp(4.5) }}
-            className="font-bold tracking-wider text-rose-500"
+            className="font-bold tracking-wider text-secondary"
           >
             WORKOUT
           </Text>

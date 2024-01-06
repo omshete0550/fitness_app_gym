@@ -27,7 +27,7 @@ export default function exerciseDetails() {
         onPress={() => router.back()}
         className="mx-2 absolute rounded-full mt-2 right-0"
       >
-        <Anticons name="closecircle" size={hp(4.5)} color="#f43f5e" />
+        <Anticons name="closecircle" size={hp(4.5)} color="#4B34A2" />
       </TouchableOpacity>
 
       {/* details */}
